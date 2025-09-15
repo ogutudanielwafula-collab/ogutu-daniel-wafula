@@ -1,2 +1,2 @@
 # ogutu-daniel-wafula
-matlab group A
+matlab group 2
